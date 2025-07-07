@@ -1,0 +1,5 @@
+This is my first Excel project.
+It includes 2 things:
+-Dashboard of customer data represented with charts and pivot tables.
+-Pivot tables for restaurant data.
+-Practicing basic formulae of Excel.
